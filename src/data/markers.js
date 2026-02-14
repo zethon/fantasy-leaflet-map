@@ -10,7 +10,7 @@ import {
 } from "../components/consts";
 export const markers = [
   {
-    name: "Test City",
+    name: "Test City adjlakjsdl kjaldkj la skjd;",
     type: CITY,
     location: [-90, 128],
     description: "",
@@ -18,9 +18,9 @@ export const markers = [
     major: false,
   },
   {
-    name: "X mark",
+    name: "X mark slkjflksjflksdj flkjsflkjs ldkfjsldkjflskdjflskjd lfkjsd lkfjlsdk jkljflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd lkjflksjdflkjsd",
     type: UNKNOWN,
-    location: [-91, 128],
+    location: [91, 128],
     description: "We're Here",
     link: "",
     major: false,
